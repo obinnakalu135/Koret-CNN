@@ -1,6 +1,6 @@
 # Solar Eclipse Image Classification
 
-This project implements a deep learning model to classify images of solar eclipse phenomena. The model uses transfer learning with a pre-trained InceptionV3 model and incorporates data augmentation techniques to improve generalization.
+This project implements a deep learning model to classify images of solar eclipse phenomena. The model uses transfer learning with a pre-trained InceptionV3 model and incorporates oversampling techniques to improve generalization.
 
 ## Key Features:
 
