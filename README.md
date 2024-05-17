@@ -7,8 +7,6 @@ This project implements a deep learning model to classify images of solar eclips
 - **Data Loading and Preprocessing:**
   - Loads images from a directory structure with subfolders representing classes.
   - Preprocesses images by resizing and normalizing them.
-- **Data Augmentation:**
-  - Applies random flips, rotations, brightness adjustments, and contrast adjustments to training images for improved robustness.
 - **Class Imbalance Handling:**
   - Analyzes class distribution and identifies imbalanced classes.
   - Oversamples minority classes using RandomOverSampler from imbalanced-learn library.
